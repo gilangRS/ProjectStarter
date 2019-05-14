@@ -1,0 +1,11 @@
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\Facade.dll
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\Facade.pdb
+C:\Private Doc\ProjectStarter\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Private Doc\ProjectStarter\Facade\obj\Debug\Facade.dll
+C:\Private Doc\ProjectStarter\Facade\obj\Debug\Facade.pdb
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\DBContext.dll
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\EntityFramework.dll
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\DBContext.pdb
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\EntityFramework.xml
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\Core.dll
+C:\Private Doc\ProjectStarter\Facade\bin\Debug\Core.pdb

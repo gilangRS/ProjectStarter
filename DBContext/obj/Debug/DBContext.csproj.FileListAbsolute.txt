@@ -1,0 +1,10 @@
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\DBContext.dll.config
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\DBContext.dll
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\DBContext.pdb
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\EntityFramework.dll
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\EntityFramework.xml
+C:\Private Doc\ProjectStarter\DBContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Private Doc\ProjectStarter\DBContext\obj\Debug\DBContext.csprojResolveAssemblyReference.cache
+C:\Private Doc\ProjectStarter\DBContext\obj\Debug\DBContext.dll
+C:\Private Doc\ProjectStarter\DBContext\obj\Debug\DBContext.pdb

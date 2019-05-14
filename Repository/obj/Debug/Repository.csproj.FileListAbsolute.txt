@@ -1,0 +1,13 @@
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\Repository.dll
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\Repository.pdb
+C:\Private Doc\ProjectStarter\Repository\obj\Debug\Repository.dll
+C:\Private Doc\ProjectStarter\Repository\obj\Debug\Repository.pdb
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\DBContext.dll
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\EntityFramework.dll
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\DBContext.pdb
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\EntityFramework.xml
+C:\Private Doc\ProjectStarter\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\Core.dll
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\Facade.dll
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\Core.pdb
+C:\Private Doc\ProjectStarter\Repository\bin\Debug\Facade.pdb
